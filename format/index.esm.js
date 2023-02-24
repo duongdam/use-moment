@@ -1,4 +1,3 @@
-"use strict";
 import moment from "moment";
 
 const mmFormat = (aTime, format = "") => {
@@ -41,5 +40,5 @@ export {
   mmFormatUTC,
   mmFormatYYYY,
   mmFormatYYYYMMDD,
-  mmFormatYYYYMMDDHHMMSSZ
+  mmFormatYYYYMMDDHHMMSSZ,
 };

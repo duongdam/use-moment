@@ -1,4 +1,3 @@
-"use strict";
 import * as mmChecks from "./check";
 import * as mmFormats from "./format";
 import * as mmCalculators from "./calculator";
@@ -14,5 +13,5 @@ export {
   mmFormats,
   mmLocales,
   mmRanges,
-  mmTimezone
+  mmTimezone,
 };

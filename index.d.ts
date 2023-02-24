@@ -5,7 +5,6 @@ import * as mmLocales from "./locale";
 import * as mmExtras from "./extra";
 import * as mmRanges from "./range";
 import * as mmTimezone from "./timezone";
-
 export {
   mmChecks,
   mmCalculators,

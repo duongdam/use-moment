@@ -1,4 +1,3 @@
-"use strict";
 import moment from "moment";
 
 const mmIsSame = (aTime, bTime, granularity) => {
@@ -29,5 +28,5 @@ export {
   mmIsSame,
   mmIsSameDate,
   mmIsSameOrAfter,
-  mmIsSameOrBefore
+  mmIsSameOrBefore,
 };
